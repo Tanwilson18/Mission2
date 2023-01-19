@@ -1,6 +1,7 @@
-﻿using System;
+﻿// Tanner Wilson Mission 2 Assignment 
 
-// Tanner Wilson Mission 2 Assignment 
+using System;
+
 class program
 {
     static void Main(string[] args)
@@ -11,7 +12,7 @@ class program
 
         int numRolls = int.Parse(Console.ReadLine());
 
-        // Create an array to store the number of times each total is rolled
+        // store this for later when for loop is executed
         int[] totals = new int[11];
 
 
