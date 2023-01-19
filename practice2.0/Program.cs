@@ -1,29 +1,4 @@
-﻿//using System;
-
-//namespace practice2._0
-//{
-//    class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//            Random r = new Random();
-
-//            int[] blah = new int[6];
-
-//            //simulate the dice roll below 
-//            for (int i = 0; i < 100; i++)
-//            {
-//                int roll = r.Next(6);
-
-//                blah[roll]++;
-
-//            }
-//            Console.WriteLine(blah[4]);
-//        }
-//    }
-//}
-
-using System;
+﻿using System;
 
 class program
 {
